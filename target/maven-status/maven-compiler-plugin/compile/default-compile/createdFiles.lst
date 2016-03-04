@@ -1,0 +1,5 @@
+com/froyo/Main.class
+com/froyo/handlers/DebugHandler.class
+com/froyo/handlers/DeleteHandler.class
+com/froyo/handlers/Handler.class
+com/froyo/handlers/MQHandler.class
